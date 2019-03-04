@@ -1,4 +1,4 @@
-# Dog-Breed-Classifier
+# Dog Breed Classifier
 Building a funny Dog breed classifier model using **Deep Learning**.
 
 
