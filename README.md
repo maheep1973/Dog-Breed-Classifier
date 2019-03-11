@@ -1,7 +1,9 @@
 # Dog Breed Classifier
 Building a funny Dog breed classifier model using **Deep Learning**.
-
-
+\
+\
+\
+!["Dog Breed Classifier"](./dog_breed_classifier.png "Dog Breed Classifier Image")
 
 # Overview
 The model predicts the given image into its appropriate dog breed.
